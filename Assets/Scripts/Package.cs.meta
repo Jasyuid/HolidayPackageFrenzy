@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 2756d9597bf81ff49908dcdd1994cb50
+timeCreated: 1428777866
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - peanut: {instanceID: 0}
+  - tissue: {instanceID: 0}
+  - wrap: {instanceID: 0}
+  - red: {instanceID: 0}
+  - green: {instanceID: 0}
+  - fragile: {instanceID: 0}
+  - peanuts: {instanceID: 0}
+  - tissues: {instanceID: 0}
+  - wraps: {instanceID: 0}
+  - reds: {instanceID: 0}
+  - greens: {instanceID: 0}
+  - fragiles: {instanceID: 0}
+  - finishedS1: {fileID: 21300004, guid: 3e5596314e3aaeb4b9c12a8120839b4e, type: 3}
+  - finishedS2: {fileID: 21300006, guid: 3e5596314e3aaeb4b9c12a8120839b4e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
